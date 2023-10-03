@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    background-color: lightyellow;
+    padding: 20px;
+    width: 72px;
+    margin:  0 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 5px 0;
+}
+
+.row input{
+    width: 251px;
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px 32px;
+    border: 1px solid black;
+    border-radius: 9px;
+
+}
